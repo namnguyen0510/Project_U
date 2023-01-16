@@ -15,7 +15,7 @@ We want to help a singularity in need, U.
 
 - If you capture:
 
-![alt text here](path-to-image-here)
+![Rewards](rewards.jpg)
 
 
 
