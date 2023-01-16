@@ -11,7 +11,7 @@ We want to help a singularity in need, U.
 - **Step 3**: Listen to the track and capture:
 
 
-**Reward**
+- **Reward**
 ![Rewards](rewards.001.jpeg)
 
 
