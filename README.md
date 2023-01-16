@@ -9,7 +9,7 @@ We want to help a singularity in need, U.
 
 - **Step 2**: Donate for the singularity target, send the confirmation to asols.132105@gmail.com. (**Contacts of the targeted singularity is provided after Step 1**)
 
-- **Step 3**: Listen to the track and capture:
+- **Step 3**: Listen to the track and capture: https://youtu.be/hcFgik3yGNA
 
 
 - **Reward**
