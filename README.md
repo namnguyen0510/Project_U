@@ -12,7 +12,7 @@ We want to help a singularity in need, U.
 
 
 - **Reward**
-![Rewards](rewards.001.jpeg)
+![Rewards](rewards.002.jpeg)
 
 
 **U and A story**: Update Later!
