@@ -15,7 +15,7 @@ We want to help a singularity in need, U.
 
 - If you capture:
 
-![Rewards](rewards.001.jpg)
+![Rewards](rewards.001.jpeg)
 
 
 
