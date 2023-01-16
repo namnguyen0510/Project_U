@@ -5,6 +5,7 @@ This this GAIA, the game of lives science.
 We want to help a singularity in need, U.
 
 - **Step 1**: Sign the form: https://drive.google.com/file/d/1rvID48g_WXwuC1W_mvi3ugdCJs7HFT4C/view?usp=share_link (hand-signed, scan or Docusign) and send it to email: asols.132105@gmail.com.
+- NOTE: Please use email name: Register_[Name]
 
 - **Step 2**: Donate for the singularity target, send the confirmation to asols.132105@gmail.com. (**Contact of targeted singularity is provided after Step 1**)
 
