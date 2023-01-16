@@ -13,7 +13,12 @@ We want to help a singularity in need, U.
 
 - Reward:
 
--- If you capture:
+- If you capture:
+
+![alt text here](path-to-image-here)
+
+
+
 
 
 
